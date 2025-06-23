@@ -3,7 +3,7 @@
 2. Open pinject.cpp in Visual Studio 
 3. Build 
 ## What does it do
-It utilizes the Win32API to inject shellcode into a target process you can use msfvenom to customize a payload, be sure it's x64 architecture though
+It utilizes the Win32API to inject shellcode into a target process's memory You can use msfvenom to customize a payload, be sure it's x64 architecture though
 ## Usage
 ```
 .\pinject.exe <PID of target Process>
