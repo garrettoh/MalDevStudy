@@ -12,7 +12,7 @@ It utilizes the Win32API to inject shellcode into a target process you can use m
 
 And it's done just like that 
 ## TODO 
-Implement a custom shellcode payload to download from a server
-AV / EDR Bypass
-API Hashing 
-MAYBE code virtualization/protection with a proprietary protector
+1. Implement a custom shellcode payload to download from a server
+2. AV / EDR Bypass
+3. API Hashing 
+4. MAYBE code virtualization/protection with a proprietary protector
